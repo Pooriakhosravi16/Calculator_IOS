@@ -1,2 +1,2 @@
 a simple calculator for ios
-![Alt text](Simulator Screenshot - iPhone 16 Pro - 2025-05-13 at 10.41.24.png)
+![Calculator Screenshot]((https://github.com/Pooriakhosravi16/Calculator_IOS/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-05-13%20at%2010.41.24.png?raw=true)
